@@ -2,6 +2,7 @@
 Nama: Ilyassa Putra
 NIM: 2602741
 Kelas: 1-RPL
+menabkan fitur-2
 '''
 
 def fibonacci(n):
